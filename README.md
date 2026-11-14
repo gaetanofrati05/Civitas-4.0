@@ -1,7 +1,7 @@
 <h1>Napoli4FUTURE</h1>
 
 <p><strong>Un ecosistema di agenti intelligenti che trasforma Napoli in una città capace di prevedere i problemi, coordinare i servizi e reagire in tempo reale.</strong></p>
-
+<img><img>
 <h2>Partecipanti</h2>
 <ul>
   <li>[Nome Cognome]</li>
