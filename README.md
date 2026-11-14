@@ -4,9 +4,11 @@
 
 ## Partecipanti
 
-- [Nome Cognome]
-- [Nome Cognome]
-- [Nome Cognome]
+- Gaetano Frati
+- Massimo Giudice
+- David De Pascale
+- Martina Donnarumma
+- Maria Teresa Lo Conte
 
 ## Il progetto
 
