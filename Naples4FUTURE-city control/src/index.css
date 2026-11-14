@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Public Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Palette Azzurro Napoli */
+  --color-blue-50: #eef7fd;
+  --color-blue-100: #d9eefb;
+  --color-blue-200: #b6ddf7;
+  --color-blue-300: #7cc4f2;
+  --color-blue-400: #38a7ea;
+  --color-blue-500: #0c8cd6;
+  --color-blue-600: #0077c2;
+  --color-blue-700: #006fb8;
+  --color-blue-800: #005894;
+  --color-blue-900: #054573;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: #0f172a;
+    background-color: #f8fafc;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

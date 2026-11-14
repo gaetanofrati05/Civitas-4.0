@@ -1,0 +1,6 @@
+{
+  "name": "Napoli City Control",
+  "description": "Cabina di regia urbana per la Pubblica Amministrazione di Napoli: monitoraggio territoriale multi-agente, simulazioni What-If e coordinamento con City Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
