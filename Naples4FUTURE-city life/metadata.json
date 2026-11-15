@@ -1,0 +1,6 @@
+{
+  "name": "Napoli Pulse · City Life",
+  "description": "Web app intelligente per cittadini e turisti di Napoli Agentic City: navigazione predittiva, turismo anti-affollamento, servizi pubblici, prenotazioni locali e coordinamento in tempo reale con City Control.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
